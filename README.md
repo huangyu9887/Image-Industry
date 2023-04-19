@@ -1,5 +1,7 @@
 # Image-Industry
-Inspire me to investigate more
+
+Inspire me to investigate more.
+
 Also inspired by https://www.yuque.com/charlin-lrdmk
 
 
