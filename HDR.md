@@ -60,4 +60,7 @@ Remember to support your essay with relevant research, statistics, and examples 
 
 # Reference
 - Open AI suggestion
-- 
+
+# Changelog
+- 20230723 init
+  
