@@ -73,7 +73,7 @@ Zhu, L., Shen, H., & Wu, F. (2015). An overview of computational photography. IE
 
 Hasinoff, S. W., Sharlet, D., Geiss, R., Adams, A., Barron, J. T., Kainz, F., ... & Levoy, M. (2016). Burst photography for high dynamic range and low-light imaging on mobile cameras. ACM Transactions on Graphics (TOG), 35(6), 192. DOI: 10.1145/2980179.2980243
 
-Google Research Blog. (2017). Making Pixel Camera even better with HDR+. Retrieved from: https://ai.googleblog.com/2017/11/making-pixel-camera-even-better-with-hdr.html
+Google Research Blog. (2017). Making Pixel Camera even better with HDR+. Retrieved from: https://ai.googleblog.com/2021/04/hdr-with-bracketing-on-pixel-phones.html
 
 Apple Newsroom. (2019). How the new iPhone 11 and iPhone 11 Pro camera systems were tested. Retrieved from: https://www.apple.com/newsroom/2019/09/how-the-new-iphone-11-and-iphone-11-pro-camera-systems-were-tested/
 
