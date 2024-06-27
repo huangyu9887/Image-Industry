@@ -11,15 +11,15 @@ Also inspired by https://www.yuque.com/charlin-lrdmk
 
 
 # 资讯
-OPN Optics - 资讯 （https://www.optica-opn.org/home/）
-Photonics Spectra - 资讯 （https://www.photonics.com/）
-optics.org - 资讯（https://optics.org/）
-Vision Spectra - 资讯（https://www.photonics.com/Vision/）
-Image sensor world - Image sensor资讯（https://image-sensors-world.blogspot.com/）
-Laser focus world - 激光资讯（https://www.laserfocusworld.com/）
-Photonics Online - 资讯（https://www.photonicsonline.com/）
-Ledinside - 资讯（https://www.ledinside.com/）
-20 Best Photonics Blogs & News Website（https://science.feedspot.com/photonics_blogs/）
+- OPN Optics - 资讯 （https://www.optica-opn.org/home/）
+- Photonics Spectra - 资讯 （https://www.photonics.com/）
+- optics.org - 资讯（https://optics.org/）
+- Vision Spectra - 资讯（https://www.photonics.com/Vision/）
+- Image sensor world - Image sensor资讯（https://image-sensors-world.blogspot.com/）
+- Laser focus world - 激光资讯（https://www.laserfocusworld.com/）
+- Photonics Online - 资讯（https://www.photonicsonline.com/）
+- Ledinside - 资讯（https://www.ledinside.com/）
+- 20 Best Photonics Blogs & News Website（https://science.feedspot.com/photonics_blogs/）
 
 知识orWiki网站
 RP Photonics Encyclopedia - 百科全书式的网站
